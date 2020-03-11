@@ -1,0 +1,11 @@
+D:\tugas 5 yofi\pemrograman\1\bin\Debug\netcoreapp3.1\1.exe
+D:\tugas 5 yofi\pemrograman\1\bin\Debug\netcoreapp3.1\1.deps.json
+D:\tugas 5 yofi\pemrograman\1\bin\Debug\netcoreapp3.1\1.runtimeconfig.json
+D:\tugas 5 yofi\pemrograman\1\bin\Debug\netcoreapp3.1\1.runtimeconfig.dev.json
+D:\tugas 5 yofi\pemrograman\1\bin\Debug\netcoreapp3.1\1.dll
+D:\tugas 5 yofi\pemrograman\1\bin\Debug\netcoreapp3.1\1.pdb
+D:\tugas 5 yofi\pemrograman\1\obj\Debug\netcoreapp3.1\1.csprojAssemblyReference.cache
+D:\tugas 5 yofi\pemrograman\1\obj\Debug\netcoreapp3.1\1.AssemblyInfoInputs.cache
+D:\tugas 5 yofi\pemrograman\1\obj\Debug\netcoreapp3.1\1.AssemblyInfo.cs
+D:\tugas 5 yofi\pemrograman\1\obj\Debug\netcoreapp3.1\1.dll
+D:\tugas 5 yofi\pemrograman\1\obj\Debug\netcoreapp3.1\1.pdb
